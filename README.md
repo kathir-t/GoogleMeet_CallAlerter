@@ -17,8 +17,15 @@ None of the data collected by this software leaves your computer. Whatever data 
 * `playsound`
 * `pycaw`
 
+These have been uploaded as `requirements.txt`
+You may install them by using `pip install -r requirements.txt`
+
 ### Additional requirements
 
 * `./cache/` directory has been ommited from commits due to privacy.
 * The audio files used in the program such as `copy_url.wav` etc... in the `./audio/` directory have not been included owing to copytrights issues. You may feel free to add your own versions of audio instead. 
 * This program uses `Firefox` as the web browser. You may switch to any other `selenium` supported browser of your choice.
+
+![firewall access](firewall_access.png)
+
+You may need to modify your firewall to allow Python to access the network.

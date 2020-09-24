@@ -21,6 +21,13 @@ captionsToggleBtnClass = "iTTPOb"
 joinNowBtnClass = "NPEfkd"
 captionsSpanClass = "VbkSUe"
 
+""" HTML Class XPaths
+	XPaths are the best way to go since class names can change any time """
+# captionsToggleBtnXPath = "/html/body/div[1]/c-wiz/div[1]/div/div[4]/div[3]/div[9]/div[3]/div[2]/div/span/span/div"
+# captionsToggleBtnXPath = "//*[@id="ow3"]/div[1]/div/div[4]/div[3]/div[9]/div[3]/div[2]/div/span/span/div"
+# captionsSpanXPath = "/html/body/div[1]/c-wiz/div[1]/div/div[4]/div[3]/div[5]/div/div[2]/div"
+# captionsSpanXPath = "//*[@id="ow3"]/div[1]/div/div[4]/div[3]/div[5]/div/div[2]/div"
+
 # Functions
 
 def waitTillPageLoad(showMessage):
