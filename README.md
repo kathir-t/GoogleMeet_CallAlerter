@@ -5,7 +5,7 @@ Tired of sitting through a boring meeting? But obliged to respond when called ou
 So, you can sit back and relax, until someone calls you!
 
 ****Worried about Data Privacy?****
-None of the data collected by this software leaves your computer. Whatever data is collected, it stays within the software and only for as long as the software is running. When the program restarts, all the previous data is lost. And on top of all that, this program does not use the internet for any other purpose apart from running the Google Meet meeting. Don't beleive me? I have open sourced the code. See for yourself!
+None of the data collected by this software leaves your computer. Whatever data is collected, it stays within the software and only for as long as the software is running. When the program restarts, all the previous data is lost. And on top of all that, this program does not use the internet for any other purpose apart from running the Google Meet meeting. Don't believe me? I have open sourced the code. See for yourself!
 
 <p style='color:red'>**Disclaimer**: This is to be considered as a fun project. This repo's owner, nor Google are responsible for the outcomes of usage of this software. Use at your own risk.</p>
 
